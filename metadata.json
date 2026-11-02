@@ -1,0 +1,10 @@
+{
+  "name": "CivicFix — AI-Powered Public Grievance Management Platform",
+  "description": "CivicFix connects citizens, department officers, and municipal administrators through an AI-powered grievance reporting, tracking, geospatial mapping, and automated escalation platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
